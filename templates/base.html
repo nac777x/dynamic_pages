@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Breweries Data</title>
+	<style type="text/css">
+		table, th, td {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+		h3 {
+			text-align: center;
+		}
+		#p1 {
+			text-align: center;
+		} 
+	</style>
+</head>
+<body>
+	<h3>
+		Hi!! This data is rendered from the <a href="https://www.kaggle.com/nickhould/craft-cans?select=breweries.csv"> Craft Beers dataset</a> downloaded from<a href="https://www.kaggle.com"> kaggle.com</a>
+	</h3>
+<p id="p1">Here is my <a href="">github repository</a></p>
+
+<table style="width: 100%">
+	<tr>
+		<th>Index</th>
+		<th>Name</th>
+		<th>City</th>
+		<th>State</th>
+	</tr>
+	{% for item in brewdata %}
+		<tr>
+			<td>{{item.Index}}</td>
+			<td>{{item.name}}</td>
+			<td>{{item.city}}</td>
+			<td>{{item.state}}</td>
+		</tr>
+	{% endfor %}
+</table>
+
+</body>
+</html>

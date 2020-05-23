@@ -1,0 +1,242 @@
+[
+  {
+    "Index": 0,
+    "name": "NorthGate Brewing",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  {
+    "Index": 1,
+    "name": "Against the Grain Brewery",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "Index": 2,
+    "name": "Jack's Abby Craft Lagers",
+    "city": "Framingham",
+    "state": "MA"
+  },
+  {
+    "Index": 3,
+    "name": "Mike Hess Brewing Company",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "Index": 4,
+    "name": "Fort Point Beer Company",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  {
+    "Index": 5,
+    "name": "COAST Brewing Company",
+    "city": "Charleston",
+    "state": "SC"
+  },
+  {
+    "Index": 6,
+    "name": "Great Divide Brewing Company",
+    "city": "Denver",
+    "state": "CO"
+  },
+  {
+    "Index": 7,
+    "name": "Tapistry Brewing",
+    "city": "Bridgman",
+    "state": "MI"
+  },
+  {
+    "Index": 8,
+    "name": "Big Lake Brewing",
+    "city": "Holland",
+    "state": "MI"
+  },
+  {
+    "Index": 9,
+    "name": "The Mitten Brewing Company",
+    "city": "Grand Rapids",
+    "state": "MI"
+  },
+  {
+    "Index": 10,
+    "name": "Brewery Vivant",
+    "city": "Grand Rapids",
+    "state": "MI"
+  },
+  {
+    "Index": 11,
+    "name": "Petoskey Brewing",
+    "city": "Petoskey",
+    "state": "MI"
+  },
+  {
+    "Index": 12,
+    "name": "Blackrocks Brewery",
+    "city": "Marquette",
+    "state": "MI"
+  },
+  {
+    "Index": 13,
+    "name": "Perrin Brewing Company",
+    "city": "Comstock Park",
+    "state": "MI"
+  },
+  {
+    "Index": 14,
+    "name": "Witch's Hat Brewing Company",
+    "city": "South Lyon",
+    "state": "MI"
+  },
+  {
+    "Index": 15,
+    "name": "Founders Brewing Company",
+    "city": "Grand Rapids",
+    "state": "MI"
+  },
+  {
+    "Index": 16,
+    "name": "Flat 12 Bierwerks",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "Index": 17,
+    "name": "Tin Man Brewing Company",
+    "city": "Evansville",
+    "state": "IN"
+  },
+  {
+    "Index": 18,
+    "name": "Black Acre Brewing Co.",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "Index": 19,
+    "name": "Brew Link Brewing",
+    "city": "Plainfield",
+    "state": "IN"
+  },
+  {
+    "Index": 20,
+    "name": "Bare Hands Brewery",
+    "city": "Granger",
+    "state": "IN"
+  },
+  {
+    "Index": 21,
+    "name": "Three Pints Brewing",
+    "city": "Martinsville",
+    "state": "IN"
+  },
+  {
+    "Index": 22,
+    "name": "Four Fathers Brewing",
+    "city": "Valparaiso",
+    "state": "IN"
+  },
+  {
+    "Index": 23,
+    "name": "Indiana City Brewing",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "Index": 24,
+    "name": "Burn 'Em Brewing",
+    "city": "Michigan City",
+    "state": "IN"
+  },
+  {
+    "Index": 25,
+    "name": "Sun King Brewing Company",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "Index": 26,
+    "name": "Evil Czech Brewery",
+    "city": "Mishawaka",
+    "state": "IN"
+  },
+  {
+    "Index": 27,
+    "name": "450 North Brewing Company",
+    "city": "Columbus",
+    "state": "IN"
+  },
+  {
+    "Index": 28,
+    "name": "Taxman Brewing Company",
+    "city": "Bargersville",
+    "state": "IN"
+  },
+  {
+    "Index": 29,
+    "name": "Cedar Creek Brewery",
+    "city": "Seven Points",
+    "state": "TX"
+  },
+  {
+    "Index": 30,
+    "name": "SanTan Brewing Company",
+    "city": "Chandler",
+    "state": "AZ"
+  },
+  {
+    "Index": 31,
+    "name": "Boulevard Brewing Company",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  {
+    "Index": 32,
+    "name": "James Page Brewing Company",
+    "city": "Stevens Point",
+    "state": "WI"
+  },
+  {
+    "Index": 33,
+    "name": "The Dudes' Brewing Company",
+    "city": "Torrance",
+    "state": "CA"
+  },
+  {
+    "Index": 34,
+    "name": "Ballast Point Brewing Company",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  {
+    "Index": 35,
+    "name": "Anchor Brewing Company",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  {
+    "Index": 36,
+    "name": "Figueroa Mountain Brewing Company",
+    "city": "Buellton",
+    "state": "CA"
+  },
+  {
+    "Index": 37,
+    "name": "Avery Brewing Company",
+    "city": "Boulder",
+    "state": "CO"
+  },
+  {
+    "Index": 38,
+    "name": "Twisted X Brewing Company",
+    "city": "Dripping Springs",
+    "state": "TX"
+  },
+  {
+    "Index": 39,
+    "name": "Gonzo's BiggDogg Brewing",
+    "city": "Kalamazoo",
+    "state": "MI"
+  }
+]
